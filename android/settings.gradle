@@ -1,0 +1,3 @@
+rootProject.name = 'DemoRNFlutter'
+
+include ':app'
